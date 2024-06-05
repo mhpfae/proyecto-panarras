@@ -1,0 +1,28 @@
+@import "./headerStyle.css";
+aside {
+	margin-top: 1%;
+	float: left;
+	width: 17%;
+	position: sticky;
+	left: 0;
+	top: 0;
+}
+main {
+	margin-top: 1%;
+	float: left;
+	width: 80%;
+	margin-right: 3%;
+}
+main img {
+	width: 50%;
+}
+main table {
+
+}
+aside a {
+	color: blue;
+	text-decoration: none;
+}
+aside a:hover {
+	text-decoration: underline;
+}
